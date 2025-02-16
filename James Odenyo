@@ -1,0 +1,33 @@
+### YamlMime:Profile
+name: James Reuben Odenyo
+metadata:
+  title: James Odenyo - Cloud Engineer
+  description: Home page for james Odenyo, a Cloud Engineer 
+  ms.author: James Odenyoq
+  team: python
+remarks: |
+
+  
+  ## Bio
+  James is a Cloud Engineer , focused on helping others build on Azure. In his spare time, he builds the open-source courseware LearnToCloud and documents his learnings.
+  
+  ## Skills
+  * Python
+  * Azure Functions, App Service, and Container Apps 
+  * Cloud Engineering and Architecture
+
+tagline: Cloud Engineering
+image:
+  alt: "James Odenyo"
+  src: media/profiles/James Odenyo.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/jamesodenyo
+  - title: LinkedIn
+    url: https://linkedin.com/jamesodenyo
+
+location:
+  display: Nairobi,  Nairobi, Kenya
+  lat: 40.75325
+  long: -74.00381
+  
